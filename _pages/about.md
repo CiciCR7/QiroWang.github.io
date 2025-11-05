@@ -22,8 +22,15 @@ I am a recent Master's graduate from the joint program between Hefei University 
 
 # 📝 Publications 
 
-[**Project**](https://modelscope.cn/profile/wangqiqiAHJY) (https://huggingface.co/qqwangcr7)
+[**Project_modelscope**](https://modelscope.cn/profile/wangqiqiAHJY)
+[**Project_huggingface**](https://huggingface.co/qqwangcr7)
+
+# 🎖 Honors and Awards
+- *2023.10* First Prize, Postgraduate Scholarship of Hefei University. 
+- *2021.11* Second Prize, National College Students Mathematics Competition - Anhui Division.
+- *2021.11* First Prize, Scholarship of Hefei University.
+- *2019.10* Outstanding Monitor & Life Committee Member, Hefei University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022 – 2025*,  Chinese Academy of Sciences & Hefei University (Joint Training), Master of Computer Technology, Research Interests: Multimodal Large Models, Image Generation, Object Detection
+- *2018 – 2022*, Hefei University, Bachelor of Computer Science and Technology, Research Interest: Machine Learning
