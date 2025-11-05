@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是 QQW，硕士毕业于合肥大学 & 中国科学院（联培），研究方向为多模态大模型、图像生成、目标检测。本科毕业于合肥大学计算机技术与科学专业，主攻机器学习领域。在科研与工业实践中，聚焦多模态技术在电力缺陷识别、农业病虫害检测等场景的落地，同时在 AI 美颜、生图算法等工程方向积累了丰富经验。
-我的研究与工程兴趣涵盖多模态大模型的微调与部署、目标检测算法优化、AI 图像生成与编辑，并在电力、农业、泛娱乐等领域有实际项目经验。
-
+I am Wang Qiqi, a recent Master's graduate from the joint program between Hefei University and the Chinese Academy of Sciences. I was advised by Professors from both institutions. I obtained my B.S. in Computer Technology and Science from Hefei University, with a focus on Machine Learning. My expertise lies in Multimodal Large Models, Image Generation, and Object Detection. I have practical experience in applying AI to industrial scenarios such as defect identification in power systems and pest detection in agriculture. I am currently seeking R&D or engineering positions focused on the fine-tuning, deployment, and application of Multimodal and T2I models.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
