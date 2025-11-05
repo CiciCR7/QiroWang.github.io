@@ -20,3 +20,10 @@ redirect_from:
 I am a recent Master's graduate from the joint program between Hefei University and the Chinese Academy of Sciences. I was advised by Professors from both institutions. I obtained my B.S. in Computer Technology and Science from Hefei University, with a focus on Machine Learning. My expertise lies in Multimodal Large Models, Image Generation, and Object Detection. I have practical experience in applying AI to industrial scenarios such as defect identification in power systems and pest detection in agriculture. I am currently seeking R&D or engineering positions focused on the fine-tuning, deployment, and application of Multimodal and T2I models.
 <a href='https://scholar.google.com/citations?user=wKuDueAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=wKuDueAAAAJ'>
 
+# 📝 Publications 
+
+[**Project**](https://modelscope.cn/profile/wangqiqiAHJY) (https://huggingface.co/qqwangcr7)
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
